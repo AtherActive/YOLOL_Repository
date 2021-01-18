@@ -9,4 +9,4 @@ If you got a nice script you want to share with all of us, post it her in the fo
 (REPO MAIN FOLDER)/(SCRIPT CATEGORY)/(folder)[SCRIPTNAME]/*insert content here*
 
 
-This repo is hsoted by Steel Space Industries
+This repo is hosted by Steel Space Industries
